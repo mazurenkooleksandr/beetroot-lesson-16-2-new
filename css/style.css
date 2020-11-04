@@ -180,7 +180,7 @@ input[type="submit"]:hover {
     cursor: pointer;
 }
 
-.tab-footer-container :checked + .tab-title-footer-container {
+.tab-footer-container :hover + .tab-title-footer-container {
     letter-spacing: 0.7px;
     margin-top: 30px;
     color: #fff;
